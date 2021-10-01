@@ -26622,7 +26622,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startPoint: {fileID: 1744307557}
-  currentScene: 0
+  currentScene: 1
   moveSpeed: 1
 --- !u!1 &959783126320590385 stripped
 GameObject:
@@ -26881,11 +26881,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8399644082407564134, guid: 37d3939fc1f47f34dad4dc74f2c90870, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.5
+      value: -9.94
       objectReference: {fileID: 0}
     - target: {fileID: 8399644082407564134, guid: 37d3939fc1f47f34dad4dc74f2c90870, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2
+      value: -5.43
       objectReference: {fileID: 0}
     - target: {fileID: 8399644082407564134, guid: 37d3939fc1f47f34dad4dc74f2c90870, type: 3}
       propertyPath: m_LocalPosition.z

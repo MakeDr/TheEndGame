@@ -26622,7 +26622,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startPoint: {fileID: 1744307557}
-  currentScene: 2
+  currentScene: 3
   moveSpeed: 1
 --- !u!1 &959783126320590385 stripped
 GameObject:
